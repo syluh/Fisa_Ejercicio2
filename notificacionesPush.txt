@@ -1,0 +1,1 @@
+se implemente la funcionalidad de notificaciones en el push
